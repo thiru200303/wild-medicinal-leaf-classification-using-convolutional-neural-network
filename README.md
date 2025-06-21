@@ -104,7 +104,7 @@ To handle any class imbalance, class weights were computed using `sklearn.utils.
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/wild-medicinal-leaf-classification.git
+git clone https://github.com/thiru200303/wild-medicinal-leaf-classification.git
 cd wild-medicinal-leaf-classification
 
 # Install dependencies
