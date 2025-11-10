@@ -105,5 +105,5 @@ Botany domain knowledge support for species classification & medicinal insights.
 Thiruvarasu M
 Msc Data Science
 
-Email: thiruvarasumohan22@gmail.com
+Email: thiruvarasumohan22@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/thiruvarasu-m-209652255
