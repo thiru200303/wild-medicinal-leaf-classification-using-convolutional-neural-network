@@ -28,7 +28,7 @@ This project aims to support AI-driven botanical research and medicinal plant id
 | Format | JPG / PNG |
 | Storage size | ~30.5 GB |
 
-
+---
 
 ## Model Architecture
 
@@ -40,6 +40,7 @@ This project aims to support AI-driven botanical research and medicinal plant id
 
 >Input → MobileNetV2 → GAP → Dense(512) → Dropout → Dense(21) → Output
 
+---
 
 ## Training Pipeline
 
@@ -50,12 +51,16 @@ This project aims to support AI-driven botanical research and medicinal plant id
 5. Fine-tuning on MobileNetV2  
 6. Evaluation using confusion matrix & metrics
 
+---
+
 ## Results
 
 - **Final Accuracy:** 94%
 - **Epochs:** 15
 - **Training Duration:** 2–3 hours per run (limited GPU)
 - Strong class-wise performance
+
+---
 
 Performance visuals (to be added in repo):
 ✅ Accuracy/Loss curve  
@@ -74,6 +79,7 @@ Performance visuals (to be added in repo):
 | Environment | Jupyter Notebook |
 | Hardware | Limited GPU resources |
 
+---
 
 ## Installation
 pip install -r requirements.txt
