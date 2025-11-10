@@ -28,11 +28,7 @@ This project aims to support AI-driven botanical research and medicinal plant id
 | Format | JPG / PNG |
 | Storage size | ~30.5 GB |
 
-🚫 Dataset cannot be fully uploaded to GitHub due to size  
-✅ Sample images included  
-✅ Class names and metadata maintained
 
----
 
 ## Model Architecture
 
