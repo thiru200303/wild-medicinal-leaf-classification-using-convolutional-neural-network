@@ -62,7 +62,7 @@ This project aims to support AI-driven botanical research and medicinal plant id
 
 ---
 
-Performance visuals (to be added in repo):
+Performance visuals (to be added in repo):<br>
 ✅ Accuracy/Loss curve  
 ✅ Confusion matrix  
 ✅ Sample predictions  
