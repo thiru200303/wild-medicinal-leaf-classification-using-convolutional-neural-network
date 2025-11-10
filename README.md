@@ -83,3 +83,27 @@ Performance visuals (to be added in repo):
 
 ## Installation
 pip install -r requirements.txt
+
+---
+## Future Enhancements
+
+- Integrating image segmentation
+
+- Larger dataset & geographical coverage
+
+- Deployment as mobile/web app for real-time use
+
+- Ensemble models for improved performance
+
+## Acknowledgements
+
+Guided by Dr. Selvam L
+Botany domain knowledge support for species classification & medicinal insights.
+
+## Author
+
+Thiruvarasu M
+Msc Data Science
+
+Email: thiruvarasumohan22@gmail.com
+LinkedIn: https://www.linkedin.com/in/thiruvarasu-m-209652255
